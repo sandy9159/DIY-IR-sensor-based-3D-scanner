@@ -71,6 +71,10 @@ List of the Components you can connect to the PCB
 
 I have design circuit and PCB in [easyEDA](https://easyeda.com/) and ordered PCB from [JLCPCB](https://jlcpcb.com/IAT )
 
+
+
+
+
 This is the link of [PCB editabl file](https://oshwlab.com/sharmaz747/multipurpose-pcb)
 
 If you seriously need quality PCB quickly in your hand then you must have to try [JLCPCB](https://jlcpcb.com/IAT ) PCB manufacturing service.
@@ -131,6 +135,7 @@ ground, and the output signal.
 
 
 
+![MVI_0005](https://user-images.githubusercontent.com/19898602/149889402-64a4ecb1-5b6a-4a54-8d43-17324766a4fe.gif)
 
 
 
