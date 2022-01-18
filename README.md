@@ -77,6 +77,31 @@ If you seriously need quality PCB quickly in your hand then you must have to try
 They have Special offer of $2 for 1-4 Layer PCBs, free SMT assembly monthly.
 If you get yourself registered today at [JLCPCB](https://jlcpcb.com/IAT ) you get 27$ welcome coupon from [JLCPCB](https://jlcpcb.com/IAT ).
 
+![image](https://user-images.githubusercontent.com/19898602/149887107-a4f3293e-a376-431d-94e5-d3458f0addd0.png)
+![image](https://user-images.githubusercontent.com/19898602/149887168-4885e005-098d-4268-9d34-8bb4e06b21d2.png)
 
-![image](https://user-images.githubusercontent.com/19898602/147902413-8c479fb7-86f1-4295-b4b9-e4c6cfd24a4a.png)
-![image](https://user-images.githubusercontent.com/19898602/147902429-2381ce25-9def-4ef0-b7bf-b4dddc201822.png)
+First I cutt the wooden piece of reuired size for the base.
+I have birch plywood for the purpouse becuse it is very hard and eassy to work with
+I cut the wood using my mini table saw.
+
+![image](https://user-images.githubusercontent.com/19898602/149887520-1e6e4226-1b39-45f8-8f15-56077c2792dd.png)![image](https://user-images.githubusercontent.com/19898602/149887592-e37dfd7c-ac39-4b4e-a96e-3e4dea9d58bd.png)
+
+
+Then I place two SFH8 this is 8mm linear shaft holder
+I have this shaft holder on the wooden block
+in this way I han hold two 8mm linear shaft for the vertical movement 
+of the machine.
+
+Then I bring 1 stepper motor we can call it Z axis stepper motor.
+The IR sensor and laser will be connected with this stepper motor, and this motor is responsible for the 
+vertical motion of laser.
+
+This motor increment 1 mm after 1 full rotation of turn table stepper motor.
+
+![image](https://user-images.githubusercontent.com/19898602/149888026-ac224faf-19fa-4c60-ae34-040573ba6da8.png)
+![image](https://user-images.githubusercontent.com/19898602/149888298-6d8964f5-0027-4fc3-a11c-2494898842cd.png)
+
+
+
+
+
