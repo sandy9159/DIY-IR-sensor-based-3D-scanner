@@ -102,6 +102,35 @@ This motor increment 1 mm after 1 full rotation of turn table stepper motor.
 ![image](https://user-images.githubusercontent.com/19898602/149888298-6d8964f5-0027-4fc3-a11c-2494898842cd.png)
 
 
+Then I 3D printed case for the Z axis, I used two 8mm linear bearing and Tnut for the assembly
+8mm lead screw will pass from the center of this part,
+as stepper motor moves it will lift up the whole assembly.
+
+![image](https://user-images.githubusercontent.com/19898602/149888698-4a1d1bc5-ea3e-4428-9b1f-122cba66d1ad.png)
+
+![image](https://user-images.githubusercontent.com/19898602/149888759-86f82048-3256-43c9-b69e-73c9b100f397.png)
+
+
+The I bring sharp IR sensor 
+
+The Sharp distance sensors are a popular choice for many projects that require accurate distance measurements. This IR sensor is more economical than sonar rangefinders, 
+
+yet it provides much better performance than other IR alternatives. Interfacing to most microcontrollers is straightforward: the single analog output can be connected to an analog-to-digital converter for taking distance measurements, 
+
+
+![image](https://user-images.githubusercontent.com/19898602/149888913-be23fdbd-1452-4d35-980f-2db2ebde7024.png)
+
+
+or the output can be connected to a comparator for threshold detection. The detection range of this version is approximately 10 cm to 80 cm (4″ to 32″).
+
+The GP2Y0A21 uses a 3-pin JST PH connector that works with our 3-pin JST PH cables for Sharp distance sensors (not included), 
+
+as shown in the upper picture on the right. These cables have 3-pin JST connectors on one end and are available with pre-crimped male pins, pre-crimped female pins, and with unterminated wires on the other end. It is also possible to solder three wires to the sensor where the connector pins are mounted (see the lower picture to the right). When looking at the back, the three connections from left to right are power, 
+
+ground, and the output signal.
+
+
+
 
 
 
