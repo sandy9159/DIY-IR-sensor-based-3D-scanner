@@ -84,8 +84,8 @@ If you get yourself registered today at [JLCPCB](https://jlcpcb.com/IAT ) you ge
 ![image](https://user-images.githubusercontent.com/19898602/149887107-a4f3293e-a376-431d-94e5-d3458f0addd0.png)
 ![image](https://user-images.githubusercontent.com/19898602/149887168-4885e005-098d-4268-9d34-8bb4e06b21d2.png)
 
-First I cutt the wooden piece of reuired size for the base.
-I have birch plywood for the purpouse becuse it is very hard and eassy to work with
+First I cut the wooden piece of required size for the base.
+I have birch plywood for the purpose because it is very hard and easy to work with
 I cut the wood using my mini table saw.
 
 ![image](https://user-images.githubusercontent.com/19898602/149887520-1e6e4226-1b39-45f8-8f15-56077c2792dd.png)![image](https://user-images.githubusercontent.com/19898602/149887592-e37dfd7c-ac39-4b4e-a96e-3e4dea9d58bd.png)
@@ -93,7 +93,7 @@ I cut the wood using my mini table saw.
 
 Then I place two SFH8 this is 8mm linear shaft holder
 I have this shaft holder on the wooden block
-in this way I han hold two 8mm linear shaft for the vertical movement 
+in this way I Can hold two 8mm linear shaft for the vertical movement 
 of the machine.
 
 Then I bring 1 stepper motor we can call it Z axis stepper motor.
@@ -106,8 +106,8 @@ This motor increment 1 mm after 1 full rotation of turn table stepper motor.
 ![image](https://user-images.githubusercontent.com/19898602/149888298-6d8964f5-0027-4fc3-a11c-2494898842cd.png)
 
 
-Then I 3D printed case for the Z axis, I used two 8mm linear bearing and Tnut for the assembly
-8mm lead screw will pass from the center of this part,
+Then I 3D printed case for the Z axis, I used two 8mm linear bearing and T nut for the assembly
+8mm lead screw will pass from the centre of this part,
 as stepper motor moves it will lift up the whole assembly.
 
 ![image](https://user-images.githubusercontent.com/19898602/149888698-4a1d1bc5-ea3e-4428-9b1f-122cba66d1ad.png)
@@ -136,6 +136,8 @@ ground, and the output signal.
 
 
 ![MVI_0005](https://user-images.githubusercontent.com/19898602/149889402-64a4ecb1-5b6a-4a54-8d43-17324766a4fe.gif)
+
+
 
 
 
